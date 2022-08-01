@@ -1,0 +1,23 @@
+Header{
+    background-color: gray;
+    border: 5px chartreuse;
+    width: 770px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+main{
+    width: 780px;
+    height: 400px;
+    background-color: chocolate;
+}
+
+nav{
+    background-color: aqua;
+    width: 150px;
+    height: 390px;
+    float: left; 
+    margin: 5px;
+    border-radius: 5px;
+}
